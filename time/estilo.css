@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(59, 58, 58);
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
+#nometime {
+    font: bold 20pt Arial;
+}
+
+#imgt {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#titulo {
+    font: normal 16pt Arial;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(59, 58, 58);
+}
+
+div {
+    background-color: grey;
+    text-align: center;
+    
+}
+
+#nometime {
+    font: bold 20pt Arial;
+}
